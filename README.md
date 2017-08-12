@@ -1,4 +1,4 @@
-#Core Project
+# Core Project
 
 *Structure for creating a Dancing Guy Java Project.*
 
