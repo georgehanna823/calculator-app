@@ -1,4 +1,4 @@
-# Core Project
+# Calculator App
 
 *Structure for creating a Dancing Guy Java Project.*
 
